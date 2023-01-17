@@ -1,9 +1,9 @@
 # Blockchain Technology & its Applications ![](https://img.shields.io/badge/-Live-Green)
 ![](https://img.shields.io/badge/College-St._Joseph's_College_Of_Engineering_and_Technology-blue) ![](https://img.shields.io/badge/Location-Palai,_Kottayam,_Kerala-blue)
 
+<p align="center">
 
-<p text-align="center">
- <h1> One Week Faculty Development Programme on <br>  Blockchain Technology & its Applications </h1>
+ <img src="https://ramagururadhakrishnan.github.io/images/2023_Jan_FDP_St_Joseph_Palai_Blockchain_Applications_DApp.jpg" width="800">
 </p>
 
 
